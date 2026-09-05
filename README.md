@@ -59,3 +59,19 @@ It will open automatically in your browser (usually `http://localhost:8501`).
   Bulk Upload page is the natural place to add a "Send Alert" button wired to
   an email/SMS API (Twilio, SendGrid, etc.) — not included here since it needs
   your own credentials.
+  ## 📸 Screenshots
+
+### 📊 Dashboard
+![Dashboard](dashboard.png)
+
+### 🔮 Prediction
+![Prediction](prediction.png)
+
+### 🤖 AI Advice
+![AI Advice](ai_advice.png)
+
+### ⚙️ What-If Simulator
+![What-If](whatif.png)
+
+### 📄 Reports
+![Reports](report.png)
